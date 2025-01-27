@@ -1,0 +1,2 @@
+# Nekosphere
+A minecraft server
