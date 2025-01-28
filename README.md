@@ -1,13 +1,11 @@
 <div align="center">
-	<br />
 	<p>
-		<a href="https://discord.js.org"><img src="https://imgur.com/JDDGT5R.png" width="546" alt="discord.js" /></a>
+		<a href="https://discord.js.org"><img src="https://imgur.com/JDDGT5R.png" width="360" alt="discord.js" /></a>
 	</p>
-	<br />
-	<p>
-		<a href="https://discord.gg/djs"><img src="https://img.shields.io/discord/222078108977594368?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
-		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="npm version" /></a>
-		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="npm downloads" /></a>
-		<a href="https://github.com/discordjs/discord.js/actions"><img src="https://github.com/discordjs/discord.js/actions/workflows/test.yml/badge.svg" alt="Tests status" /></a>
-		<a href="https://codecov.io/gh/discordjs/discord.js" ><img src="https://codecov.io/gh/discordjs/discord.js/branch/main/graph/badge.svg?precision=2" alt="Code coverage" /></a>
-	</p>
+ <h3 align="center">Nekosphere Minecraft Server Based on Discord Community<br>Kamu bisa join dengan ip <a href="play.nekosphere.my.id" onclick="copytext">play.nekosphere.my.id</a> di minecraft versi berapapun</h3>
+	<a href="https://discord.gg/uH4z7gUNXD"><img src="https://img.shields.io/badge/Nekosphere-Discord-%237289da?logo=discord&logoColor=white" alt="Discord server" /></a>
+	<a href="https://nekosphere.netlify.app"> <img src="https://img.shields.io/badge/Official_Website-Nekopshere-white?logo=netlify&logoColor=white&link=nekosphere.netlify.app" alt="Official Website" /></a>
+
+ <hr>
+  <h3 align="center">Powered by <a href="https://digitalocean.com">Digital Ocean</strong></a></h3>
+  <a align="center"> Powerful and production-ready, our cloud platform has the solutions that devs like you need to succeed—whether you're building world-changing AI apps, running a side project, or building a business.
